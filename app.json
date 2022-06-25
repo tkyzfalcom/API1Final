@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "API1Final",
+    "slug": "API1Final",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
